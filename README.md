@@ -4,8 +4,8 @@
 Welcome to my **personal portfolio website**, built with HTML and CSS and hosted using **GitHub Pages**.  
 This website showcases my academic achievements, technical skills, projects, and certificates.
 
-🔗 **Live Website:** https://bhavya-patel-glitch.github.io  
-📁 **Repository:** https://github.com/bhavya-patel-glitch/bhavya-patel-glitch.github.io  
+🔗 **Live Website:** https://anushka-shah-glitch.github.io  
+📁 **Repository:** https://github.com/anushka-shah-glitch/anushka-shah-glitch.github.io  
 
 ---
 
