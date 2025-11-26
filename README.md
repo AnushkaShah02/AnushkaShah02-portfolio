@@ -1,5 +1,5 @@
 # AnushkaShah02-portfolio
-# 🌐 Personal Portfolio Website — Bhavya Patel
+# 🌐 Personal Portfolio Website — Anushka Shah
 
 Welcome to my **personal portfolio website**, built with HTML and CSS and hosted using **GitHub Pages**.  
 This website showcases my academic achievements, technical skills, projects, and certificates.
