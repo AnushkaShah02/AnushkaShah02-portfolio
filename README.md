@@ -74,8 +74,7 @@ Upload certificate images into `assets/images/` and update your HTML pages.
 ## 📬 Contact Me
 
 ### 🌐 Social Profiles  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anushka-shah-a8a597372/)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/anushka-shah-glitch)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anushka-shah-713627377)    
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:your-email@example.com)
 
 ---
